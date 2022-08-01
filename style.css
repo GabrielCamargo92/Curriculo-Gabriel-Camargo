@@ -184,6 +184,12 @@ h4 {
 /* Página Conhecimentos */
 .conhecimentos {
     margin-left: 30px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1)), rgba(255, 255, 255, 0);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 20%;
+    width: 60%;
 }
 
 /* Efeitos da Barra de Progresso */
